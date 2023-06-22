@@ -43,7 +43,7 @@ RSpec.describe "Students", type: :request do
   #     expect(response.body).to include_json({ 
   #       first_name: 'Idris', last_name: 'Elba', grade: 105 
   #     })
-  #   end
-  # end
+  end
+  end
   
 end
